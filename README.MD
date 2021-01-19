@@ -3,7 +3,7 @@
 ------
 
 ## Mission and Background
-We at `__________` aim to provide high quality academic and scholastic content to scholars who reach out to us. We are a well known organization in the academic field and we wish to go digital and expand our reach across the globe with a strong digital availability and attention grabbing user interface. 
+We at ***`Hathway Library`*** aim to provide high quality academic and scholastic content to scholars who reach out to us. We are a well known organization in the academic field and we wish to go digital and expand our reach across the globe with a strong digital availability and attention grabbing user interface. 
 
 we wish to develop a management system which would ease out the work for us in the digitization phase of our organization. The webapp itself should reflect our ideology and background and should go along our aim and mission while also following the recent design trends and keeping things sleek and modern.
 
@@ -40,7 +40,7 @@ we wish to develop a management system which would ease out the work for us in t
 - [ ] Manage **Permissions**
   - [ ] Roles contain default permissions
   - [ ] Let admins manage permissions
-  - [ ] new users have default permissions
+  - [ ] New users have default permissions
 
 *`manage`* refers to **`Add`/`Update`/`Delete`** corresponding information.
 

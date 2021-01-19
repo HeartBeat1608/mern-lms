@@ -1,17 +1,20 @@
 ## Project Management Board
 
-### Queued
-- [ ] Get a `name` for the company
-- [ ] Make a `logo` for the company
+### **Queued**
 - [ ] Create `designs` for the pages
-- [ ] Complete the design portfolio for `client-approval`
+- [ ] Complete the design portfolio for `client approval`
 
 -----
-### In Progress
-- [ ] Go Live and discuss all this
+### **In Progress**
+- [x] Go Live and discuss all this
 
 -----
-### Backlog
+### **Backlog**
 - [x] No Backlogs
+
+-----
+### **Done**
+- [x] Get a `name` for the company
+- [x] Make a `logo` for the company
 
 -----
