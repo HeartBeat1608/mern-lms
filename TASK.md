@@ -2,6 +2,10 @@
 
 ### **Queued**
 - [ ] Create `designs` for the pages
+  - [x] Login Page
+  - [x] Loader w/o progress
+  - [x] Loader w/ progress
+  - [ ] Dashboard
 - [ ] Complete the design portfolio for `client approval`
 
 -----
