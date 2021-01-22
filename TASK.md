@@ -6,11 +6,10 @@
   - [x] Loader w/o progress
   - [x] Loader w/ progress
   - [ ] Dashboard
-- [ ] Complete the design portfolio for `client approval`
 
 -----
 ### **In Progress**
-- [x] Go Live and discuss all this
+- [ ] Complete the design portfolio for `client approval`
 
 -----
 ### **Backlog**
@@ -20,5 +19,6 @@
 ### **Done**
 - [x] Get a `name` for the company
 - [x] Make a `logo` for the company
+- [x] Go Live and discuss all this
 
 -----

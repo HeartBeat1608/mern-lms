@@ -45,4 +45,4 @@ We wish to develop a management system which would ease out the work for us in t
 *`manage`* refers to **`Add`/`Update`/`Delete`** corresponding information.
 
 ----------------
-Stream goes live every `Tuesday`, `Thursday` and `Saturday`. Follow here [Aryavan](https://www.youtube.com/channel/UC3XzhBoKFfIseOWt-v2TMrA/featured)
+New Videos every `Tuesday`, `Thursday` and `Saturday`. Follow here [Aryavan](https://www.youtube.com/channel/UC3XzhBoKFfIseOWt-v2TMrA/featured)

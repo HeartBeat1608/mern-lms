@@ -1,0 +1,29 @@
+{
+  "name": "base-lms-package",
+  "version": "1.0.0",
+  "description": "Base Package for the Hathway LMS",
+  "main": "index.js",
+  "scripts": {
+    "start:client": "cd client && npm run start",
+    "start:server": "cd server && npm run start",
+    "dev:server": "cd server && npm run dev",
+    "start": "concurrently \"npm run start:client\" \"npm run start:server\"",
+    "dev": "concurrently \"npm run start:client\" \"npm run dev:server\"",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "LMS",
+    "Hathway",
+    "Library",
+    "Management",
+    "System",
+    "ReactJS",
+    "Project"
+  ],
+  "author": "Durgesh Pandey",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HeartBeat1608/mern-lms.git"
+  },
+  "license": "MIT"
+}
