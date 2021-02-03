@@ -45,4 +45,11 @@ We wish to develop a management system which would ease out the work for us in t
 *`manage`* refers to **`Add`/`Update`/`Delete`** corresponding information.
 
 ----------------
+### Global Packages 
+#### (Not in `package.json` but used during development)
+
+- nodemon - `npm i -g nodemon`
+- concurrently - `npm i -g concurrently`
+
+----------------
 New Videos every `Tuesday`, `Thursday` and `Saturday`. Follow here [Aryavan](https://www.youtube.com/channel/UC3XzhBoKFfIseOWt-v2TMrA/featured)
