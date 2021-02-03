@@ -38,7 +38,7 @@ We wish to develop a management system which would ease out the work for us in t
   - [ ] Show grades with users
   - [ ] Create a leaderboard for users
 - [ ] Manage **Referrals**
-  - [ ] Let users refer others while signup
+  - [ ] Let users refer others (while signup)
   - [ ] create short IDs for referrals
   - [ ] handle referrals with sensible mechanism
 
